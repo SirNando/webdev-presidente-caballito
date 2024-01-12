@@ -8,6 +8,9 @@ html {
   --dark: #737373;
   --medium: #d9d9d9;
   --light: #fafafa;
+
+  max-width: 2000px;
+  margin: auto;
 }
 
 nav {
@@ -56,10 +59,6 @@ nav {
   transform: rotate(-45deg) translate(-1rem, 1rem);
   background-color: var(--darkest);
   transition: all 300ms;
-}
-
-#nav-links {
-  background-color: var(--medium);
 }
 
 #hero-title {

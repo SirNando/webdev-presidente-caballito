@@ -60,7 +60,7 @@ const PICTURES_2 = [
 export default function Work() {
   return (
     <>
-      <div className="p-6 t text-dark">
+      <div className="p-6 t text-dark md:px-10">
         <h2 className="text-xl font-semibold mb-3">
           <HighlightText size={"2xl"}>Obras,</HighlightText> que ya podemos ver
         </h2>
