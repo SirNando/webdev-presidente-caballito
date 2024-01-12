@@ -4,6 +4,7 @@ export default {
   theme: {
     colors: {
       primary: "#ffb800",
+      primary_light: "#ffc81b",
       darkest: "#363434",
       dark: "#737373",
       medium: "#d9d9d9",
@@ -11,6 +12,7 @@ export default {
       white: "#ffffff",
     },
     backgroundColor: {
+      primary_light: "#ffc81b",
       primary: "#ffb800",
       darkest: "#363434",
       dark: "#737373",
